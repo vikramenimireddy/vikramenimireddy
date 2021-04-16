@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vikramenimireddy
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning online courese from Perfect plan b and Udemy online e learning.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning online courses on machine learning from Perfect plan b and Udemy online e learning.
 - 📫 How to reach me : vikramenimireddy@gmail.com
 
 <!---
